@@ -32,3 +32,5 @@
  - Time Library by Michael Margolis (Found in the Library Manager in the Arduino IDE or can be downloaded from [here](https://github.com/PaulStoffregen/Time))
  - [SevSeg Library](https://github.com/DeanIsMe/SevSeg)
  - ESP8266 Library (Found in the Library Manager in the Arduino IDE)
+>**Schematic**
+![](https://github.com/Skyvko6607/arduino-wireless-clock/blob/master/screenshots/Schematic.png)
