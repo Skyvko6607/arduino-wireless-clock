@@ -15,6 +15,7 @@
  - Retrieving time from a wireless connection.
  - Commands which can be entered through **Serial Monitor** on the **Nano**.
  - Commands which have been entered on the **Nano** will communicate corresponding to the command with the **NodeMCU**.
+ - The 7 segment displays are connected to a 9V battery, because the ones I have are much bigger and require more power.
 >**Requirements:**
  - Nearby wireless connection.
  - **WiFi** requires a password in order for the **NodeMCU** to connect.
