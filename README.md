@@ -1,11 +1,12 @@
-
 # Arduino Wireless Clock
 
 ## **Information**
 
 >Name: *Arduino Wireless Clock*
-Language: **Hungarian**
-Purpose: *Common home aesthetic item*
+>
+>Language: **Hungarian**
+>
+>Purpose: *Common home aesthetic item*
 
 ## **Description**
 
