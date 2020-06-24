@@ -1,1 +1,1 @@
-# arduino-wireless-clock
+# Arduino Wireless Clock
